@@ -1,0 +1,1 @@
+/Users/isaac/Develop/nu-that.us/application/backend/prototype/appsec/sca/src/vuln_collector/target/debug/libvuln_collector.rlib: /Users/isaac/Develop/nu-that.us/application/backend/prototype/appsec/sca/src/vuln_collector/src/lib.rs /Users/isaac/Develop/nu-that.us/application/backend/prototype/appsec/sca/src/vuln_collector/src/ovf_schema.rs
